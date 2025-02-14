@@ -4,8 +4,8 @@ import java.io.*;
 
 public class ImageToByteArray {
     public static void main(String[] args) {
-        String sourceImage = "source.jpg";
-        String destinationImage = "output.jpg";
+        String sourceImage = "E:\\CapgeminiTraining\\Program_Prerequisite\\Week4\\Day3_Streams\\src\\main\\java\\imagetobyte\\20240413.jpg";
+        String destinationImage = "E:\\CapgeminiTraining\\Program_Prerequisite\\Week4\\Day3_Streams\\src\\main\\java\\imagetobyte\\20240504.jpg";
 
         try {
             // Read image into a byte array
