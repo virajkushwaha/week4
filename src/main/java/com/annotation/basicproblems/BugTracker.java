@@ -1,4 +1,4 @@
-package annotation.basicproblems;
+package com.annotation.basicproblems;
 import java.lang.annotation.*;
 import java.lang.reflect.Method;
 
