@@ -1,4 +1,4 @@
-package annotation.basicproblems;
+package com.annotation.basicproblems;
 
 // Class with deprecated and updated methods
 class LegacyAPI {
