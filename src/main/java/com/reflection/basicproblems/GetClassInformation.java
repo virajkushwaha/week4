@@ -1,4 +1,4 @@
-package reflection.basicproblems;
+package com.reflection.basicproblems;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
