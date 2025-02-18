@@ -1,4 +1,4 @@
-package reflection.intermediateproblems;
+package com.reflection.intermediateproblems;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
