@@ -1,4 +1,4 @@
-package reflection.intermediateproblems;
+package com.reflection.intermediateproblems;
 
 import java.lang.reflect.Method;
 import java.util.Scanner;
