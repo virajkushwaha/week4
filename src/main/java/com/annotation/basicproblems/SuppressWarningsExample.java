@@ -1,4 +1,4 @@
-package annotation.basicproblems;
+package com.annotation.basicproblems;
 import java.util.ArrayList;
 
 // Class with deprecated and updated methods
